@@ -1,4 +1,4 @@
-// This File is commeted out, so we have a reference fo handler, but they will not launch with the bot
+// This File is commented out, so we have a reference for handlers, but they will not launch with the bot
 // import {
 //   ButtonInteraction,
 //   Client,

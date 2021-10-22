@@ -19,8 +19,7 @@ import {
 } from "discord.js";
 import { APIGuildMember, APIMessage } from "discord-api-types";
 
-export const getIdFromCategoryName = (name: string) =>
-  `c_${name.toLowerCase()}`;
+export const getIdFromParentName = (name: string) => `c_${name.toLowerCase()}`;
 
 export const getIocName = <T extends DiscordEvent>(
   ioc: InstanceOrConstructor<CommandHandler<T>>
