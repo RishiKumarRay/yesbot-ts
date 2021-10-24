@@ -880,6 +880,11 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
+"@types/node-cron@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/node-cron/-/node-cron-3.0.0.tgz#f946cefb5c05c64f460090f6be97bd50460c8898"
+  integrity sha512-RNBIyVwa/1v2r8/SqK8tadH2sJlFRAo5Ghac/cOcCv4Kp94m0I03UmAh9WVhCqS9ZdB84dF3x47p9aTw8E4c4A==
+
 "@types/node@*":
   version "16.11.9"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.9.tgz#879be3ad7af29f4c1a5c433421bf99fab7047185"
