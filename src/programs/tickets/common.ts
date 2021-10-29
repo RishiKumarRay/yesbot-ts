@@ -132,7 +132,7 @@ const createTicket = async (
   return await message.guild.channels.create(channelName, channelOptions);
 };
 
-export enum TicketType {
+export const enum TicketType {
   SHOUTOUT = "SHOUTOUT",
   TRAVEL = "TRAVEL",
   FIYESTA = "FIYESTA",
