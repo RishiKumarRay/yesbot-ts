@@ -27,7 +27,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@yes-theory-fam/database": "0.19.0",
+    "@yes-theory-fam/database": "0.20.0-bp-preview.01",
     "axios": "0.24.0",
     "countries-and-timezones": "3.3.0",
     "country-code-emoji": "2.3.0",
