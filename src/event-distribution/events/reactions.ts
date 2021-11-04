@@ -6,17 +6,14 @@ import {
   MessageRelatedOptions,
 } from "../types/base";
 import {
-  GuildChannel,
   MessageReaction,
   PartialMessageReaction,
   PartialUser,
-  TextBasedChannels,
   User,
 } from "discord.js";
 import {
   addToTree,
   collectChannelDefinitions,
-  getIdFromCategoryName,
   withMessageRelatedInfo,
 } from "../helper";
 

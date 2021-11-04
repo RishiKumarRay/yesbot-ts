@@ -125,6 +125,7 @@ Object {
 exports[`Reactions should extract reaction from direct message 1`] = `
 Array [
   Object {
+    "content": "this is the message content",
     "handlerKeys": Array [
       "channel-id",
       null,
@@ -138,6 +139,7 @@ Array [
 exports[`Reactions should extract reaction from public channel 1`] = `
 Array [
   Object {
+    "content": "this is the message content",
     "handlerKeys": Array [
       "guild-channel",
       null,

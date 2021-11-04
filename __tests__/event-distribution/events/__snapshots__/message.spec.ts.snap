@@ -142,6 +142,7 @@ Object {
 exports[`Messages should extract messages from direct message 1`] = `
 Array [
   Object {
+    "content": "this is the message content",
     "handlerKeys": Array [
       "channel-id",
       "this",
@@ -168,6 +169,7 @@ Array [
 exports[`Messages should extract messages from public channel 1`] = `
 Array [
   Object {
+    "content": "this is the message content",
     "handlerKeys": Array [
       "guild-channel",
       "this",
