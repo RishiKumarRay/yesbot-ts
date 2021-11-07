@@ -944,12 +944,12 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@yes-theory-fam/database@0.20.0-bp-preview.01":
-  version "0.20.0-bp-preview.1"
-  resolved "https://npm.pkg.github.com/download/@yes-theory-fam/database/0.20.0-bp-preview.1/feb146dad2571b6437b33e23dcfdbda11f47a2729b423c54d4d86c80a901a374#0673ba72649cb1069ad313c75348077bc5f13464"
-  integrity sha512-fMuodRsd3qV4eLAtlyeoQXjulKXn4k2GoPM3u8eaRB22E4oMlYucw7q1EwZL3SHsCZwoMAnWsZYhAzcA2ZmOjA==
+"@yes-theory-fam/database@0.20.0-bp-preview.02":
+  version "0.20.0-bp-preview.2"
+  resolved "https://npm.pkg.github.com/download/@yes-theory-fam/database/0.20.0-bp-preview.2/d03fc519c153116da244afcbb35f2b49b4f7d59481f3153479fbee343e4aa720#48fd8ab35df992daf62c1b9dbb374e7717c764ab"
+  integrity sha512-plcQ3vQfgh0Mzkf4CeAtZUjFKNRoCzFTrc07Pp9RG6A8cCLbUXSwhkKwdm1ELOxzFK6oRKIX0uUuOB0PXm3v7g==
   dependencies:
-    "@prisma/client" "3.3.0"
+    "@prisma/client" "3.4.1"
 
 "@yestheoryfam/prettier-config@1.0.0":
   version "1.0.0"
