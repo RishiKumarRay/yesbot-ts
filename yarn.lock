@@ -872,6 +872,11 @@
   resolved "https://registry.yarnpkg.com/@types/ms/-/ms-0.7.31.tgz#31b7ca6407128a3d2bbc27fe2d21b345397f6197"
   integrity sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==
 
+"@types/node-cron@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/node-cron/-/node-cron-3.0.0.tgz#f946cefb5c05c64f460090f6be97bd50460c8898"
+  integrity sha512-RNBIyVwa/1v2r8/SqK8tadH2sJlFRAo5Ghac/cOcCv4Kp94m0I03UmAh9WVhCqS9ZdB84dF3x47p9aTw8E4c4A==
+
 "@types/node-fetch@^2.5.12":
   version "2.5.12"
   resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.5.12.tgz#8a6f779b1d4e60b7a57fb6fd48d84fb545b9cc66"
@@ -879,11 +884,6 @@
   dependencies:
     "@types/node" "*"
     form-data "^3.0.0"
-
-"@types/node-cron@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/node-cron/-/node-cron-3.0.0.tgz#f946cefb5c05c64f460090f6be97bd50460c8898"
-  integrity sha512-RNBIyVwa/1v2r8/SqK8tadH2sJlFRAo5Ghac/cOcCv4Kp94m0I03UmAh9WVhCqS9ZdB84dF3x47p9aTw8E4c4A==
 
 "@types/node@*":
   version "16.11.9"
@@ -944,12 +944,12 @@
   dependencies:
     "@types/yargs-parser" "*"
 
-"@yes-theory-fam/database@0.20.0-bp-preview.02":
-  version "0.20.0-bp-preview.2"
-  resolved "https://npm.pkg.github.com/download/@yes-theory-fam/database/0.20.0-bp-preview.2/d03fc519c153116da244afcbb35f2b49b4f7d59481f3153479fbee343e4aa720#48fd8ab35df992daf62c1b9dbb374e7717c764ab"
-  integrity sha512-plcQ3vQfgh0Mzkf4CeAtZUjFKNRoCzFTrc07Pp9RG6A8cCLbUXSwhkKwdm1ELOxzFK6oRKIX0uUuOB0PXm3v7g==
+"@yes-theory-fam/database@0.20.0-bp-preview.03":
+  version "0.20.0-bp-preview.3"
+  resolved "https://npm.pkg.github.com/download/@yes-theory-fam/database/0.20.0-bp-preview.3/36f73a69e647ebef4be9848cef2e516d511f0431a575e8829884d9537bef4118#33abef7cbf14e4b338556f6f1ea27e9639c35761"
+  integrity sha512-Csc9xHRHihFj1LEqNPagaYEhRvQEcyK5ooRaGoWKBZDF3Xu20WaaCIOGi+ByFjKis3yhNiLfYXcuH2FfM/bmPQ==
   dependencies:
-    "@prisma/client" "3.4.1"
+    "@prisma/client" "3.5.0"
 
 "@yestheoryfam/prettier-config@1.0.0":
   version "1.0.0"
